@@ -1,0 +1,19 @@
+{
+  "name": "goalgorilla/social_comment_upload",
+  "description": "Module, that provides ability to upload files in comments.",
+  "type": "drupal-module",
+  "keywords": [
+    "Open Social",
+    "Drupal",
+    "Module"
+  ],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/goalgorilla/social_comment_upload",
+  "minimum-stability": "dev",
+  "require": {
+    "composer/installers": "^1.0"
+  },
+  "extra": {
+    "installer-name": "social_comment_upload"
+  }
+}
